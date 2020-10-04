@@ -28,10 +28,6 @@ With the user stories listed out, the website is going to consist of the followi
 3. Shipping Policy
 4. Refund and Exchange Policy
 
-### Features left to implement
-1. Check out page
-2. Detailed specification of product page
-
 ## Project Structure
 
 The wireframe of the project can be viewed [here](www.google.com.sg)
@@ -50,3 +46,7 @@ The Shipping Policy page covers the information on shipping locally and internat
 
 - Refund and Exchange Policy\
 It covers the different scenarios in which the customers will be allowed to request for a refund or an exchange. 
+
+### Features left to implement
+1. Check out page
+2. Detailed specification of product page
