@@ -25,7 +25,7 @@ With the user stories listed out, the website is going to consist of the followi
 ### Pages & Features
 1. Homepage
 2. About Us 
-3. Shipping
+3. Shipping Policy
 4. Refund and Exchange Policy
 
 ### Features left to implement
@@ -36,3 +36,17 @@ With the user stories listed out, the website is going to consist of the followi
 
 The wireframe of the project can be viewed [here](www.google.com.sg)
 
+## Project Skeleton
+
+### Existing Features
+- Homepage\
+The homepage contains 3 main information for shoppers to view. The top navigation bar which includes the About Us page, Shipping Policy page and Refund Policy & Exchange page.
+
+- About Us\
+This page include details of the brand. It shows the brand message and mission statement.Contains a paragraph on the background of how it all started out. 
+
+- Shipping Policy\
+The Shipping Policy page covers the information on shipping locally and internationally. It provides the cost of shipping to specific locations and the number of working days needed for the shop to ship the product out. It also provides the estimated delivery date of the product. 
+
+- Refund and Exchange Policy\
+It covers the different scenarios in which the customers will be allowed to request for a refund or an exchange. 
