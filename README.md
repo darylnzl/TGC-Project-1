@@ -6,10 +6,10 @@ Click here to view the [homepage](www.google.com.sg)
 ## Demo
 
 Desktop View.
-![Desktop](/images/desktop.png "desktop")
+![desktop](/images/readme/desktop.png "desktop")
 
 Mobile View.
-![Mobile](/images/mobile.png "mobile")
+![mobile](/images/readme/mobile.png "mobile")
 
 ## Project Strategy
 
