@@ -59,5 +59,17 @@ The website was designed to have a classic clean feel theme. I chose to go with 
 ### Logo
 I decided to not go with a logo design and went with letters instead. Having the letters bold signifies a more daring and strong brand. The impression which I hope to get from the users is that it the product is trustworthy and worth it. 
 
+### Fonts
+Aller Regular font which is under San Serif Classification is used for the website. The clean and neat writing allows shoppers to read easily and comfortably. 
+
 ## Technologies Used
 
+- HTML
+- CSS
+- Bootstrap
+- Repositry on GitHub
+
+## Libraries
+- The fonts was taken from Font Squirrel. 
+
+## Testing
