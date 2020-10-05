@@ -3,6 +3,13 @@ This project is an online shopping website for shoppers to shop for quality head
 
 Click here to view the [homepage](www.google.com.sg)
 
+## Demo
+
+Desktop View.
+<img src="images/desktop.png"></img>
+
+Mobile View. 
+<img src="images/mobile.png"></img>
 ## Project Strategy
 
 ### UX
@@ -73,3 +80,6 @@ Aller Regular font which is under San Serif Classification is used for the websi
 - The fonts was taken from Font Squirrel. 
 
 ## Testing
+
+The webpage was tested on 2 different devices, mobile and desktop. They are responsive. Works well with both devices. 
+
