@@ -78,8 +78,8 @@ button:focus {
     position: absolute;
     top: 80%;
     left: 20%;
-    transform: translate(-50%, -50%);
-    color: white;
+    transform: translate(-70%, -40%);
+    color:white;
     padding-left: 30%;
     font-weight: 40px;
   }
@@ -118,4 +118,19 @@ button:focus {
     padding-bottom: 3%;
   }
   
-  
+/* picture size */
+.picture-one{
+    height:100%;
+    width:100%;
+  }
+
+.picture-two{
+    height:100%;
+    width:100%;
+  }
+
+.picture-three{
+    height:100%;
+    width:100%;
+  } 
+
