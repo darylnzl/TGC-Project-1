@@ -41,7 +41,7 @@ b{
 
 /*brand name*/
 .brand-name{
-    font-size:20px;
+    font-size:1rem;
     color: rgb(51, 128, 192);
   }
 
@@ -70,6 +70,32 @@ button:focus {
      background-size: cover;
      position: relative;
      background-image: url("images/hero/hero.jpg")
+  }
+
+/* hero text */
+.hero-text{
+     position: absolute;
+     top: 80%;
+     left: 20%;
+     transform: translate(-50%, -50%);
+     color: black;
+     padding-left: 30%;
+     font-weight: 40px;
+  }
+
+  /*button */
+  button{
+    font-size: 1rem;
+    border:none;
+    color: white;
+    padding: 2% 2%;
+    background-color:rgb(51, 128, 192);
+  }
+
+  button:hover {
+    background-color: black;
+    color: white;
+    transition-duration: 0.4s;
   }
   
     
