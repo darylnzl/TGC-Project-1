@@ -4,64 +4,72 @@
     src: url("fonts/aller-regular.ttf");
   }
   
-  @font-face{
+@font-face{
     font-family: aller-bold;
     src: url("fonts/aller-bold.ttf");
   }
 
-  body{
+body{
     font-family: aller-regular;
   }
   
-  b{
+b{
     font-family: aller-bold;
   }
 
-  /* alert bar */
+/* alert bar */
 /* background color */
 .alert-primary {
     background-color:black;
     text-align: center; 
-    /* font-family: input-mono; */
+/* font-family: input-mono; */
     color: white;
     margin:0%;
   }
 
-  /* remove border */
+/* remove border */
 .alert{
     border-radius: 0rem;
     border:none; 
   }
 
 /* navbar */
-  /* change background color of nav bar */
-  .bg-color{  
+/* change background color of nav bar */
+.bg-color{  
     background-color:rgb(255, 255, 255);
  }
 
 /*brand name*/
-  .brand-name{
+.brand-name{
     font-size:20px;
     color: rgb(51, 128, 192);
   }
 
 /* remove outline of hamburger */
-   button:focus { 
+button:focus { 
     outline: 0;
   }
 
 /* search button color*/
-   .btn-outline-success {
+.btn-outline-success {
     color:rgb(8, 8, 8);
     border-color:#889386;
   } 
 
 /* search button hover color */
-    .btn-outline-success:hover {
+.btn-outline-success:hover {
      background-color:rgb(51, 128, 192);
      border-color:black;
   }
 
-
+/* hero image  */
+.hero-image{
+     height:100vh;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+     background-image: url("images/hero/hero.jpg")
+  }
   
     
