@@ -32,4 +32,10 @@
     border-radius: 0rem;
     border:none; 
     }
+
+/* navbar */
+  /* change background color of nav bar */
+  .bg-color{  
+    background-color:black;
+  }
     
