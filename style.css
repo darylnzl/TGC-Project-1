@@ -20,7 +20,7 @@ b{
 /* alert bar */
 /* background color */
 .alert-primary {
-    background-color:black;
+    background-color: rgb(0, 0, 0);
     text-align: center; 
 /* font-family: input-mono; */
     color: white;
@@ -50,6 +50,7 @@ button:focus {
     outline: 0;
   }
 
+
 /* search button color*/
 .btn-outline-success {
     color:rgb(8, 8, 8);
@@ -58,32 +59,32 @@ button:focus {
 
 /* search button hover color */
 .btn-outline-success:hover {
-     background-color:rgb(51, 128, 192);
-     border-color:black;
+    background-color:rgb(51, 128, 192);
+    border-color:black;
   }
 
 /* hero image  */
 .hero-image{
-     height:100vh;
-     background-position: center;
-     background-repeat: no-repeat;
-     background-size: cover;
-     position: relative;
-     background-image: url("images/hero/hero.jpg")
+    height:100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-image: url("images/hero/hero.jpg")
   }
 
 /* hero text */
 .hero-text{
-     position: absolute;
-     top: 80%;
-     left: 20%;
-     transform: translate(-50%, -50%);
-     color: black;
-     padding-left: 30%;
-     font-weight: 40px;
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding-left: 30%;
+    font-weight: 40px;
   }
 
-  /*button */
+/*button */
   button{
     font-size: 1rem;
     border:none;
@@ -97,5 +98,24 @@ button:focus {
     color: white;
     transition-duration: 0.4s;
   }
-  
+
+.lead{
+    font-size: 18px;
+  }
+
+/* product banner  */
+.product-img{
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
     
+.jumbotron{
+    background-color:transparent; 
+  }
+    
+.shop-now{
+    padding-bottom: 3%;
+  }
+  
+  
