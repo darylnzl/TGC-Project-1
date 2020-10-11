@@ -164,5 +164,44 @@ button:focus {
 }
 
 
+/* Refund CSS */
+.refund-hero{
+  height:30vh;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-image: url("images/refund/refund-hero.jpg")
+}
 
+.refund-text{
+  color:black;
+  position: absolute; 
+  top: 60%;
+  left: 20%;
+  transform: translate(-20%, -50%);
+  padding-left: 30%;
+  font-weight: 40px;
+}
+
+.returns{
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  text-align: justify;
+  margin-left: 25%;
+  margin-top: 7%;
+
+
+}
+
+.refunds{
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  text-align: justify;
+  margin-left: 25%;
+  margin-top: 2%;
+
+}
 
