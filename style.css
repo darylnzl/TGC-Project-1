@@ -31,19 +31,31 @@
 .alert{
     border-radius: 0rem;
     border:none; 
-    }
+  }
 
 /* navbar */
   /* change background color of nav bar */
   .bg-color{  
-    background-color:black;
-  }
+    background-color:rgb(255, 255, 255);
+ }
 
 /*brand name*/
   .brand-name{
     font-size:20px;
-    color: rgb(136, 206, 194);
+    color: rgb(51, 128, 192);
   }
+
+/* remove outline of hamburger */
+   button:focus { 
+    outline: 0;
+  }
+
+/* search button color*/
+   .btn-outline-success {
+    color:rgb(8, 8, 8);
+    border-color:#889386;
+  } 
+
 
   
     
