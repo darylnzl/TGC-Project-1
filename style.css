@@ -56,6 +56,12 @@
     border-color:#889386;
   } 
 
+/* search button hover color */
+    .btn-outline-success:hover {
+     background-color:rgb(51, 128, 192);
+     border-color:black;
+  }
+
 
   
     
