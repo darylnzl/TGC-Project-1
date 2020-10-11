@@ -164,8 +164,8 @@ button:focus {
 }
 
 
-/* Refund CSS */
-.refund-hero{
+/* Sub pages CSS */
+.sub-hero{
   height:30vh;
   /* background-position: center; */
   background-repeat: no-repeat;
@@ -174,7 +174,7 @@ button:focus {
   background-image: url("images/refund/refund-hero.jpg")
 }
 
-.refund-text{
+.sub-text{
   color:black;
   position: absolute; 
   top: 60%;
@@ -184,7 +184,7 @@ button:focus {
   font-weight: 40px;
 }
 
-.returns{
+.para-subs1{
   box-sizing: border-box;
   width: 50%;
   float: left;
@@ -195,7 +195,7 @@ button:focus {
 
 }
 
-.refunds{
+.para-subs2{
   box-sizing: border-box;
   width: 50%;
   float: left;
@@ -204,4 +204,44 @@ button:focus {
   margin-top: 2%;
 
 }
+
+.para-subs3{
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  text-align: justify;
+  margin-left: 25%;
+  margin-top: 2%;
+
+}
+
+.para-subs4{
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  text-align: justify;
+  margin-left: 25%;
+  margin-top: 2%;
+}
+
+.para-subs4{
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  text-align: justify;
+  margin-left: 25%;
+  margin-top: 2%;
+
+}
+
+.para-subs5{
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  text-align: justify;
+  margin-left: 25%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
 
