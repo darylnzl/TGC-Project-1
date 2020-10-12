@@ -34,7 +34,7 @@ With the user stories listed out, the website is going to consist of the followi
 1. Homepage
 2. About Us 
 3. Shipping Policy
-4. Refund and Exchange Policy
+4. Return and Refund Policy
 
 ## Project Structure
 
@@ -83,4 +83,6 @@ Aller Regular font which is under San Serif Classification is used for the websi
 ## Testing
 
 The webpage was tested on 2 different devices, mobile and desktop. They are responsive. Works well with both devices. 
+
+
 

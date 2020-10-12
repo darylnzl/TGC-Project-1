@@ -209,13 +209,7 @@ button:hover {
   margin-bottom: 5%;
 }
 
-.container{
-  width: 100%;
-  padding-right: 20px;
-  padding-left: 20px;
-  margin-right: 2px;
-  margin-left: auto;
-}
+
 
 /* Change cursor pointer */
 .nav-link:hover{
