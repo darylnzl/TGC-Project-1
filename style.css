@@ -1,182 +1,179 @@
 /* fonts */
-@font-face{
-    font-family: aller-regular;
-    src: url("fonts/aller-regular.ttf");
-  }
-  
-@font-face{
-    font-family: aller-bold;
-    src: url("fonts/aller-bold.ttf");
-  }
+@font-face {
+  font-family: aller-regular;
+  src: url("fonts/aller-regular.ttf");
+}
 
-body{
-    font-family: aller-regular;
+@font-face {
+  font-family: aller-bold;
+  src: url("fonts/aller-bold.ttf");
+}
 
-  }
-  
-b{
-    font-family: aller-bold;
-  }
+body {
+  font-family: aller-regular;
+}
+
+b {
+  font-family: aller-bold;
+}
 
 /* alert bar */
 /* background color */
 .alert-primary {
-    background-color: rgb(0, 0, 0);
-    text-align: center; 
-/* font-family: input-mono; */
-    color: white;
-    margin:0%;
-  }
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  /* font-family: input-mono; */
+  color: white;
+  margin: 0%;
+}
 
 /* remove border */
-.alert{
-    border-radius: 0rem;
-    border:none; 
-  }
+.alert {
+  border-radius: 0rem;
+  border: none;
+}
 
 /* navbar */
 /* change background color of nav bar */
-.bg-color{  
-    background-color:rgb(255, 255, 255);
- }
+.bg-color {
+  background-color: rgb(255, 255, 255);
+}
 
 /*brand name*/
-.brand-name{
-    font-size:25px;
-    color: rgb(51, 128, 192);
-  }
+.brand-name {
+  font-size: 25px;
+  color: rgb(51, 128, 192);
+}
 
 /* remove outline of hamburger */
-button:focus { 
-    outline: 0px;
-  }
-
+button:focus {
+  outline: 0px;
+}
 
 /* search button color*/
 .btn-outline-success {
-    color:rgb(8, 8, 8);
-    border-color:#889386;
-  } 
+  color: rgb(8, 8, 8);
+  border-color: #889386;
+}
 
 /* search button hover color */
 .btn-outline-success:hover {
-    background-color:rgb(51, 128, 192);
-    border-color:black;
-  }
+  background-color: rgb(51, 128, 192);
+  border-color: black;
+}
 
 /* hero image  */
-.hero-image{
-    height:100vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    background-image: url("images/hero/hero.jpg")
-  }
+.hero-image {
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-image: url("images/hero/hero.jpg");
+}
 
 /* hero text */
-.hero-text{
-    position: absolute;
-    top: 80%;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    color:white;
-    padding-left: 30%;
-    font-weight: 40px;
-  }
+.hero-text {
+  position: absolute;
+  top: 80%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding-left: 30%;
+  font-weight: 40px;
+}
 
 /*button */
-  button{
-    font-size: 15px;
-    border:none;
-    color: white;
-    padding: 2% 2%;
-    background-color:rgb(51, 128, 192);
-  }
+button {
+  font-size: 15px;
+  border: none;
+  color: white;
+  padding: 2% 2%;
+  background-color: rgb(51, 128, 192);
+}
 
-  button:hover {
-    background-color: black;
-    color: white;
-    transition-duration: 0.4s;
-  }
+button:hover {
+  background-color: black;
+  color: white;
+  transition-duration: 0.4s;
+}
 
-.lead{
-    font-size: 18px;
-  }
+.lead {
+  font-size: 18px;
+}
 
 /* product banner  */
-.product-img{
-    padding-top: 5%;
-    padding-left: 15%;
-    padding-right: 15%;
-    display: flex;
-    justify-content: center;
-  }
-
-.product-size{
-    height: 50%;
-    width: 80%;
+.product-img {
+  padding-top: 5%;
+  padding-left: 15%;
+  padding-right: 15%;
+  display: flex;
+  justify-content: center;
 }
-    
-.jumbotron{
-    background-color:transparent; 
-    padding-bottom: 0px;
-    margin: 0;
-  }
-    
-.shop-now{
-    padding-bottom: 3%;
-  }
-  
+
+.product-size {
+  height: 50%;
+  width: 80%;
+}
+
+.jumbotron {
+  background-color: transparent;
+  padding-bottom: 0px;
+  margin: 0;
+}
+
+.shop-now {
+  padding-bottom: 3%;
+}
+
 /* picture size */
-.picture-one{
-    height:50%;
-    width:100%;
-  }
+.picture-one {
+  height: 50%;
+  width: 100%;
+}
 
-.picture-two{
-    height:50%;
-    width:100%;
-  }
+.picture-two {
+  height: 50%;
+  width: 100%;
+}
 
-.picture-three{
-    height:50%;
-    width:100%;
-  } 
+.picture-three {
+  height: 50%;
+  width: 100%;
+}
 
 /* our product text */
-.our-product-text{
-    padding-top:5%;
-    text-align:center;
-  }
-
-/* removes border */
-.card{
-    border:none;
-  }
-    
-.maintenance{
-    text-align: center;
-  }
-
-.page-footer{
-    background-color: black;
+.our-product-text {
+  padding-top: 5%;
+  text-align: center;
 }
 
+/* removes border */
+.card {
+  border: none;
+}
+
+.maintenance {
+  text-align: center;
+}
+
+.page-footer {
+  background-color: black;
+}
 
 /* Sub pages CSS */
-.sub-hero{
-  height:30vh;
+.sub-hero {
+  height: 30vh;
   /* background-position: center; */
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  background-image: url("images/refund/refund-hero.jpg")
+  background-image: url("images/refund/refund-hero.jpg");
 }
 
-.sub-text{
-  color:black;
-  position: absolute; 
+.sub-text {
+  color: black;
+  position: absolute;
   top: 60%;
   left: 20%;
   transform: translate(-20%, -50%);
@@ -184,28 +181,25 @@ button:focus {
   font-weight: 40px;
 }
 
-.para-subs1{
+.para-subs1 {
   box-sizing: border-box;
   width: 50%;
   float: left;
   text-align: justify;
   margin-left: 25%;
   margin-top: 7%;
-
-
 }
 
-.para-subs2{
+.para-subs2 {
   box-sizing: border-box;
   width: 50%;
   float: left;
   text-align: justify;
   margin-left: 25%;
   margin-top: 2%;
-
 }
 
-.para-subs3{
+.para-subs3 {
   box-sizing: border-box;
   width: 50%;
   float: left;
@@ -215,8 +209,15 @@ button:focus {
   margin-bottom: 5%;
 }
 
+.container{
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 2px;
+  margin-left: auto;
+}
 
-
-
-
-
+/* Change cursor pointer */
+.nav-link:hover{
+  cursor: pointer;
+}
