@@ -1,7 +1,7 @@
 # <b>Alt Beats Shop</b>
 This project is an online shopping website for shoppers to shop for quality headphones for their daily use. The website targets users who have a liking in headphones. The purpose of the website is to help users view what are the products sold, prices and more information on the shop (Contact information, Address, Social Media). It also helps to showcase the brand and allows user to make a decisive decision before purchase. 
 
-Click here to view the [homepage](www.google.com.sg)
+Click here to view the [homepage](https://darylnzl.github.io/TGC-Project-1/)
 
 ## Demo
 
@@ -12,6 +12,14 @@ Mobile View.
 ![mobile](/images/readme/mobile.png "mobile")
 
 ## Project Strategy
+
+WireFrame. 
+
+![homepage](/images/wireframe/homepage.jpg "homepage")
+![product](/images/wireframe/product.jpg "product")
+![shipping](/images/wireframe/shipping.jpg "shipping")
+![return](/images/wireframe/return.jpg "return")
+![checkout](/images/wireframe/checkout.jpg "checkout")
 
 ### UX
 
