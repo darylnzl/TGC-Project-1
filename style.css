@@ -157,14 +157,10 @@ button:hover {
   text-align: center;
 }
 
-.page-footer {
-  background-color: black;
-}
 
 /* Sub pages CSS */
 .sub-hero {
   height: 30vh;
-  /* background-position: center; */
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -175,7 +171,7 @@ button:hover {
   color: black;
   position: absolute;
   top: 60%;
-  left: 20%;
+  left: 15%;
   transform: translate(-20%, -50%);
   padding-left: 30%;
   font-weight: 40px;
@@ -188,6 +184,7 @@ button:hover {
   text-align: justify;
   margin-left: 25%;
   margin-top: 7%;
+
 }
 
 .para-subs2 {
@@ -197,21 +194,29 @@ button:hover {
   text-align: justify;
   margin-left: 25%;
   margin-top: 2%;
+
 }
 
 .para-subs3 {
   box-sizing: border-box;
   width: 50%;
-  float: left;
   text-align: justify;
   margin-left: 25%;
   margin-top: 2%;
   margin-bottom: 5%;
+
 }
-
-
 
 /* Change cursor pointer */
 .nav-link:hover{
   cursor: pointer;
 }
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:white;
+  text-align: center;
+}
+
