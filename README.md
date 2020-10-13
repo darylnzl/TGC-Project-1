@@ -89,7 +89,7 @@ Aller Regular font which is under San Serif Classification is used for the websi
 The webpage was tested on 2 different devices, mobile and desktop. They are responsive. Works well with both devices. 
 
 | Test Case  | Description          | Outcome  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------| -----|
 | 1         | In index.html (Homepage) , the user clicks on the navigation links and will lead them to the specific page chosen. | Pass |
 | 2        | In index.html (Homepage), when user clicks on button, it will lead to checkout.html or shop.html. | Pass |
 |3 | In shop.html (Shop), the user clicks on "BUY NOW" button and will lead to checkout.html page. | Pass|
@@ -98,6 +98,33 @@ The webpage was tested on 2 different devices, mobile and desktop. They are resp
 | 6 | Page Responsiveness: Pages are responsive and able to view clearly on desktop and mobile. | Pass|
 
 
+
+## Deployments
+
+The project was done using Visual Studio Code and GitHub. 
+
+1) GitHub Repositry was created. 
+2) Cloned it with VS code to run webpage locally.
+3) Commits were done and pushed and webpage will be updated. 
+
+## Credits
+
+1) Bootstrap template codes were gotten from bootstrap website. 
+- [Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
+- [Hero Image](https://www.w3schools.com/howto/howto_css_hero_image.asp)
+- [Carousel](https://www.w3schools.com/bootstrap/bootstrap_carousel.asp)
+- [Card Template](https://getbootstrap.com/docs/4.0/components/card/)
+
+2) Fonts were taken from the below webpage. 
+- [Font Squirrel](https://www.fontsquirrel.com/). 
+
+3) Images were taken from the below webpages.
+- [Pexels](https://www.pexels.com/search/Headphones/)
+- [Unsplash](https://unsplash.com/s/photos/headphones)
+- [WallpaperCraft](https://wallpaperscraft.com/download/headphones_hand_levitation_131113/1920x1080)
+
+4) Checkout form template was taken from the below webpage.
+- [MdBootstrap](https://mdbootstrap.com/snippets/jquery/mdbootstrap/102381)
 
 
 
