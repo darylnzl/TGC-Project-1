@@ -31,10 +31,11 @@ User Stories
 With the user stories listed out, the website is going to consist of the following features.
 
 ### Pages & Features
-1. Homepage
-2. About Us 
+1. Home
+2. Shop
 3. Shipping Policy
 4. Return and Refund Policy
+5. Checkout Page
 
 ## Project Structure
 
@@ -46,8 +47,8 @@ The wireframe of the project can be viewed [here](www.google.com.sg)
 - Homepage\
 The homepage contains 3 main information for shoppers to view. The top navigation bar which includes navigation to the About Us page, Shipping Policy page and Refund Policy & Exchange page. Bottom of the page include contact information of the shop. 
 
-- About Us\
-This page include details of the brand. It shows the brand message and mission statement.Contains a paragraph on the background of how it all started out. 
+- Shop\
+This page include the products that are sold for the brand. Includes the product description and price of item. Customers can have the option to click on buy now. 
 
 - Shipping Policy\
 The Shipping Policy page covers the information on shipping locally and internationally. It provides the cost of shipping to specific locations and the number of working days needed for the shop to ship the product out. It also provides the estimated delivery date of the product. 
@@ -55,9 +56,12 @@ The Shipping Policy page covers the information on shipping locally and internat
 - Refund and Exchange Policy\
 It covers the different scenarios in which the customers will be allowed to request for a refund or an exchange. 
 
+- Checkout Page\
+Only by clicking on "BUY NOW" button, the checkout page will then show out. It includes entering the customer information and payment method. On the right hand side, it is able to show the products that were chosen and the total amount payable. 
+
 ### Features left to implement
-- Check out page
 - Detailed specification of product page
+- Working checkout page
 
 ## Graphics Interface (Surface)
 
@@ -83,6 +87,17 @@ Aller Regular font which is under San Serif Classification is used for the websi
 ## Testing
 
 The webpage was tested on 2 different devices, mobile and desktop. They are responsive. Works well with both devices. 
+
+| Test Case  | Description          | Outcome  |
+| ------------- |:-------------:| -----:|
+| 1         | In index.html (Homepage) , the user clicks on the navigation links and will lead them to the specific page chosen. | Pass |
+| 2        | In index.html (Homepage), when user clicks on button, it will lead to checkout.html or shop.html. | Pass |
+|3 | In shop.html (Shop), the user clicks on "BUY NOW" button and will lead to checkout.html page. | Pass|
+| 4 | In shipping.html(Shipping Policy) the text are easy to read and understandable. | Pass |
+| 5 | in refund.html (Return and Refund Policy) the text are easy to read and understandable. | Pass | 
+| 6 | Page Responsiveness: Pages are responsive and able to view clearly on desktop and mobile. | Pass|
+
+
 
 
 
