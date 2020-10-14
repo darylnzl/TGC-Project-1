@@ -17,13 +17,13 @@ WireFrame.
 
 ![homepage](/images/wireframe/homepage.png "homepage")
 
-![product](/images/wireframe/product.jpg "product")
+![product](/images/wireframe/product.png "product")
 
-![shipping](/images/wireframe/shipping.jpg "shipping")
+![shipping](/images/wireframe/shipping.png "shipping")
 
-![return](/images/wireframe/return.jpg "return")
+![return](/images/wireframe/return.png "return")
 
-![checkout](/images/wireframe/checkout.jpg "checkout")
+![checkout](/images/wireframe/checkout.png "checkout")
 
 ### UX
 
