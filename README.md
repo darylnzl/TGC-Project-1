@@ -49,9 +49,6 @@ With the user stories listed out, the website is going to consist of the followi
 4. Return and Refund Policy
 5. Checkout Page
 
-## Project Structure
-
-The wireframe of the project can be viewed [here](www.google.com.sg)
 
 ## Project Skeleton
 
@@ -74,6 +71,7 @@ Only by clicking on "BUY NOW" button, the checkout page will then show out. It i
 ### Features left to implement
 - Detailed specification of product page
 - Working checkout page
+- Search function for the webpage is currently not working and hope to implement it for future revisions. 
 
 ## Graphics Interface (Surface)
 
