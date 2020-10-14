@@ -92,6 +92,7 @@ button {
   background-color: rgb(51, 128, 192);
 }
 
+/* change hover color for button background */
 button:hover {
   background-color: black;
   color: white;
@@ -121,6 +122,7 @@ button:hover {
   padding-bottom: 0px;
   margin: 0;
 }
+
 
 .shop-now {
   padding-bottom: 3%;
@@ -197,6 +199,7 @@ button:hover {
 
 }
 
+/* with margin bottom included */
 .para-subs3 {
   box-sizing: border-box;
   width: 50%;
@@ -212,6 +215,7 @@ button:hover {
   cursor: pointer;
 }
 
+/* For footer */
 .footer {
   left: 0;
   bottom: 0;
