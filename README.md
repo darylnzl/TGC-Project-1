@@ -15,10 +15,14 @@ Mobile View.
 
 WireFrame. 
 
-![homepage](/images/wireframe/homepage.jpg "homepage")
+![homepage](/images/wireframe/homepage.png "homepage")
+
 ![product](/images/wireframe/product.jpg "product")
+
 ![shipping](/images/wireframe/shipping.jpg "shipping")
+
 ![return](/images/wireframe/return.jpg "return")
+
 ![checkout](/images/wireframe/checkout.jpg "checkout")
 
 ### UX
