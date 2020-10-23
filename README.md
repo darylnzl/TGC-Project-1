@@ -13,17 +13,12 @@ Mobile View.
 
 ## Project Strategy
 
-WireFrame. 
+Identifying Users
+- Alt Beats provides high-end headphones for young adults who enjoy high quality music. We target users which have a preference on headphones rather than earpieces. 
 
-![homepage](/images/wireframe/homepage.png "homepage")
-
-![product](/images/wireframe/product.png "product")
-
-![shipping](/images/wireframe/shipping.png "shipping")
-
-![return](/images/wireframe/return.png "return")
-
-![checkout](/images/wireframe/checkout.png "checkout")
+Identifying User's Goals
+- The main goal for the users is to visit the webpage to view the products listed. 
+- Users will be able to know more on the prices and consider if they would like to purchase the product. 
 
 ### UX
 
@@ -51,6 +46,18 @@ With the user stories listed out, the website is going to consist of the followi
 
 
 ## Project Skeleton
+
+WireFrame. 
+
+![homepage](/images/wireframe/homepage.png "homepage")
+
+![product](/images/wireframe/product.png "product")
+
+![shipping](/images/wireframe/shipping.png "shipping")
+
+![return](/images/wireframe/return.png "return")
+
+![checkout](/images/wireframe/checkout.png "checkout")
 
 ### Existing Features
 - Homepage\
